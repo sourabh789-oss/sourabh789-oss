@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 CS Engineering Student at Chameli Devi Group of Institutions (2026)
-- 🧠 Solved 130+ problems on [LeetCode](https://leetcode.com/u/jxAmfu3hfF/)
+- 🧠 Solved 190+ problems on [LeetCode](https://leetcode.com/u/jxAmfu3hfF/)
 - 🔥 50+ day streak on [Code360](https://www.naukri.com/code360/profile/5543195e-5768-4b6b-af9b-5e118d7a8531)
 - 💻 Focused on building **MERN stack** apps and integrating AI features
 - 🌱 Currently exploring **backend optimization** and **machine learning**
