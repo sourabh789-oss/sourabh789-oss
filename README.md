@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,cpp,git,github,vscode,firebase,postman" />
-  <img src="https://cdn.brandfetch.io/idkMnqdUbA/w/820/h/820/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B"  style="filter: invert(48%) sepia(92%) saturate(749%) hue-rotate(348deg) brightness(102%) contrast(101%);" height="50"/>
+  <img src="https://cdn.brandfetch.io/idkMnqdUbA/w/820/h/820/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B"  style="filter: invert(1);" height="50"/>
 </p>
 
 <p align="center">
