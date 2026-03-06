@@ -22,6 +22,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,cpp,git,github,vscode,firebase,postman" />
+  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/main/images/thunder-client-logo.png" height="50"/>
 </p>
 
 <p align="center">
