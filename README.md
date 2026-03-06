@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,cpp,git,github,vscode,firebase,postman" />
-  <img src="https://brandfetch.com/thunderclient.com?view=library&library=default&collection=logos&asset=id6mVsgmYi&utm_source=https%253A%252F%252Fbrandfetch.com%252Fthunderclient.com&utm_medium=copyAction&utm_campaign=brandPageReferral" height="50"/>
+  <img src="https://cdn.brandfetch.io/idkMnqdUbA/w/820/h/820/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" height="50"/>
 </p>
 
 <p align="center">
