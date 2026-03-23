@@ -17,7 +17,8 @@
 - 🛠️ Building real-world projects with scalable architecture
 
 ---
-
+ <img width="100%" hight="80px" src= "https://i.pinimg.com/originals/4b/ea/ca/4beaca89dc536ab5b2766d00af2f095e.gif"
+/>
 ### ⚙️ Languages & Tools
 
 <p align="center">
