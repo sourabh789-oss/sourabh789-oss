@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | 💡 DSA Enthusiast | 🤖 AI Learner | 🎓 CSE'26</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;130%2B+Leetcode+Problems+Solved;Learning+AI+integration+in+Web+Apps;Open+to+collaborations+%26+internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;190%2B+Leetcode+Problems+Solved;Learning+AI+integration+in+Web+Apps;Open+to+collaborations+%26+internships" alt="Typing SVG" />
 </p>
 
 ---
